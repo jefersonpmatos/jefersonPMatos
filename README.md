@@ -1,12 +1,10 @@
-<h1 align="center">Hey! I'm Jeferson Pereira 🦖</h1>
+<h1 align="center"> JEFERSON P. MATOS</h1><p align="center"> WEB DEVELOPER FULL STACK </p>
 
-<h3 align="center">🚀 A fullstack dev jr. looking for opportunitys</h3>
-
-Portfólio: https://portfolio-jefersonpmatos.vercel.app/
+<p align="center">Portfólio: www.jefersonpmatos.site </p>
 
 ### 💻 I’m currently learning:
 
- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+ ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ### 📫 Reach me at jefersonpmatos@outlook.com
 
 ### Connect with me:
