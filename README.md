@@ -6,5 +6,4 @@ I'm **Jeferson P. Matos**, a **fullstack web developer**. I'm currently learning
 [![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,express,html,css,git,github,firebase,mysql,postgres,discord)](https://skillicons.dev)
 
 ## 🦖 STATUS
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jefersonpmatos&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jefersonPMatos&theme=dark&&layout=compact)](https://github.com/jefersonPMatos/jefersonPMatos/edit/master/README.md)
