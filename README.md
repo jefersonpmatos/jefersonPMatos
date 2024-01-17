@@ -4,6 +4,9 @@
 
 Sou um desenvolvedor fullstack com 2+ anos de experiência profissional utilizando o que há de mais moderno no desenvolvimento web, como React, Next, Node, Typescript, Scrum, Kanban, entre outras tecnologias, frameworks e bibliotecas.
 
+[![Outlook](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:jefersonpmatos@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jefersonpmatos/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5583981668392)
 ## ⚡️Skills
 
 ### Frontend
@@ -41,11 +44,9 @@ Sou um desenvolvedor fullstack com 2+ anos de experiência profissional utilizan
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=jefersonpmatos&layout=compact)](https://github.com/jefersonpmatos/github-readme-stats)
 
 
-## ✉️ Contato
 
-[![Outlook](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:jefersonpmatos@outlook.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jefersonpmatos/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5583981668392)
+
+
 
 
 
