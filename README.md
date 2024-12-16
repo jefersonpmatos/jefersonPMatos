@@ -16,5 +16,5 @@ I am a web developer with a restless mind that has always fueled my drive for in
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
 
 
-### ⭐ GitHub Status
+## ⭐ GitHub Status
 [![Stats](https://github-readme-stats.vercel.app/api?username=jefersonpmatos&theme=default)](https://github.com/jefersonpmatos/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jefersonpmatos&layout=compact)](https://github.com/jefersonpmatos/github-readme-stats)
