@@ -17,4 +17,4 @@ I am a web developer with a restless mind that has always fueled my drive for in
 
 
 ## ⭐ GitHub Status
-[![Stats](https://github-readme-stats.vercel.app/api?username=jefersonpmatos&theme=default)](https://github.com/jefersonpmatos/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jefersonpmatos&layout=compact)](https://github.com/jefersonpmatos/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jefersonpmatos&layout=compact)](https://github.com/jefersonpmatos/github-readme-stats)
